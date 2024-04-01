@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "type": "module",
   "author": "Carlos Andres Spagnolo",
+  "homepage": "https://spagnolocarlos.github.io/translate-app/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
