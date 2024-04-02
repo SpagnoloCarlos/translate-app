@@ -1,30 +1,29 @@
-# React + TypeScript + Vite
+# Translate App - devChallenges.io Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is the solution for the challenge called Traslate App from the [devChallenges.io](https://devchallenges.io/) website.
 
-Currently, two official plugins are available:
+![](./public/screenshot.webp)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built with
 
-## Expanding the ESLint configuration
+- [Vite.js](https://vitejs.dev/) - React framework
+- [React](https://reactjs.org/) - JS library
+- [TypeScript](https://www.typescriptlang.org/) - Programming language
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Author
 
-- Configure the top-level `parserOptions` property like this:
+- Website - [Carlos Andres Spagnolo](https://spagnolo-carlos.netlify.app/)
+- Frontend Mentor - [@SpagnoloCarlos](https://www.frontendmentor.io/profile/SpagnoloCarlos)
+- LinkedIn - [Carlos Andres Spagnolo](https://www.linkedin.com/in/carlos-spagnolo-andres/)
+- Instagram - [@carlos.spagnolo.dev](https://www.instagram.com/carlos.spagnolo.dev/)
+- Email - [carlos.andres.spagnolo@gmail.com](mailto:your.email@gmail.com)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+## Cloning Repository
+
+```bash
+git clone https://github.com/SpagnoloCarlos/translate-app
+cd translate-app
+npm install
+npm run dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
