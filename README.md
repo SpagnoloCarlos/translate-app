@@ -13,7 +13,6 @@ This project is the solution for the challenge called Traslate App from the [dev
 ## Author
 
 - Website - [Carlos Andres Spagnolo](https://spagnolo-carlos.netlify.app/)
-- Frontend Mentor - [@SpagnoloCarlos](https://www.frontendmentor.io/profile/SpagnoloCarlos)
 - LinkedIn - [Carlos Andres Spagnolo](https://www.linkedin.com/in/carlos-spagnolo-andres/)
 - Instagram - [@carlos.spagnolo.dev](https://www.instagram.com/carlos.spagnolo.dev/)
 - Email - [carlos.andres.spagnolo@gmail.com](mailto:your.email@gmail.com)
